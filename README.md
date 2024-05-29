@@ -37,7 +37,7 @@ I'm currently working on demonstrative projects to showcase in my future portfol
   - Git/GitHub
 
 ## Let's Connect
-- LinkedIn
+- LinkedIn: www.linkedin.com/in/ricardo-armijo-a408bb2a9
 - Email: rarmijo.dev@gmail.com
 
 <!--
