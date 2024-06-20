@@ -8,7 +8,7 @@ I'm passionate about developing **high-quality software** and staying up-to-date
 ## Projects
 I'm currently working on demonstrative projects to showcase in my future portfolio:
 
-1. **HoroscopeFun**:
+1. **[HoroscopeFun](https://github.com/rarmijob/HoroscopeFun)**:
    - Designed for entertainment purposes, this project showcases several features:
      - API consumption with Retrofit
      - Component animation
